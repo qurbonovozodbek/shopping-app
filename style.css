@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: Poppins;
+    font-family: sans-serif;
     background: linear-gradient(to left, rgb(221, 109, 10) , rgb(187, 190, 10) );
 }
 .container{
